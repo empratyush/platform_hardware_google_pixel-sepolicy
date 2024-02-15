@@ -5,6 +5,7 @@
 /vendor/bin/awk                                     u:object_r:vendor_toolbox_exec:s0
 /vendor/bin/cp                                      u:object_r:vendor_toolbox_exec:s0
 /vendor/bin/toolbox_vendor                          u:object_r:vendor_toolbox_exec:s0
+/vendor/bin/vendorDuressService                     u:object_r:citadeld_exec:s0
 
 /vendor/bin/hw/android\.hardware\.atrace@1\.0-service.pixel                           u:object_r:hal_atrace_default_exec:s0
 
